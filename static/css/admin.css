@@ -1,0 +1,31 @@
+#main-menu .mm-dropdown>a:before {
+	content: '>' !important;
+} 
+
+.breadcrumb {
+	margin-top: -25px; margin-bottom: 0px;
+	padding-bottom: 0;
+	background-color: transparent;
+} 
+
+.page-header *{
+	margin-top: 0; margin-bottom:0;
+}
+
+.table-review-details > tbody > tr:hover {
+	background-color: white !important;
+	cursor: pointer;
+}
+
+.table-review-details .details td {
+	border-left-width: 1px;
+	border-bottom-width: 1px;
+}
+
+.table-raw {
+	background-color: transparent !important;
+}
+
+a.dashboard-widget {
+	color: black;
+}
